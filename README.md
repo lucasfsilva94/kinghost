@@ -14,6 +14,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - SAAS
 
+Utilitários
+- [Scout-app](https://scout-app.io)
+
 ## 🚀 Demo
 
 Demostração da aplicação web
