@@ -4,7 +4,7 @@
 
 ## 💻 Projeto
 
-Kinghost é um projeto onde é utilizado Saas para ajudar na codificação de um projeto
+Kinghost é um projeto onde é utilizado Saas para ajudar na codificação e produtividade no desenvolvimento de um site
 
 ## 🛠 Tecnologias
 
