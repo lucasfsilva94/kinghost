@@ -94,6 +94,8 @@
     }
   }
   @include responsive(480px) {
+    padding-top: 1.5rem;
+    margin-top: 6.5rem;
     .container {
       .text {
         h1 {
