@@ -6,6 +6,7 @@ header {
   height: 11.9rem;
   background-color: $purple-01;
   display: flex;
+  z-index: 999;
   .container {
     @include flex(row, center, space-between);
   }
@@ -31,6 +32,7 @@ header {
     }
   }
   @include responsive(600px) {
+    height: 10.9rem;
     .container {
       justify-content: center;
     }
