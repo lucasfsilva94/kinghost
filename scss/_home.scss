@@ -79,7 +79,7 @@
       }
     }
   }
-  @include responsive(728px) {
+  @include responsive(600px) {
     padding-top: 2.5rem;
     margin-top: 8rem;
     .container {
@@ -91,6 +91,15 @@
     }
     .image {
       left: -2.2rem;
+    }
+  }
+}
+@include responsive(480px) {
+  .container {
+    .text {
+      h1 {
+        font-size: 3.3rem;
+      }
     }
   }
 }
